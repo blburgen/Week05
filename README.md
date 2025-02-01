@@ -19,3 +19,4 @@
 <h2 id="license">License</h2>
 <h2 id="contact">Contact</h2>
 <h2 id="acknowledge">Acknowledgements</h2>
+<p>for layout ideas -- <a href="https://github.com/Louis3797/awesome-readme-template">https://github.com/Louis3797/awesome-readme-template</a></p>
